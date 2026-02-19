@@ -3,7 +3,7 @@ name: natural-law-analysis
 description: Derive moral obligations from rational human nature's participation in eternal law, providing a foundation for ethics that is accessible to reason and applicable across cultures, independent of (th...
 license: MIT
 metadata:
-  version: 1.0.4563
+  version: 1.0.4564
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
